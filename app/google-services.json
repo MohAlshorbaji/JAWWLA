@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1003357213185",
+    "firebase_url": "https://jawwla-c83f5.firebaseio.com",
+    "project_id": "jawwla-c83f5",
+    "storage_bucket": "jawwla-c83f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003357213185:android:04ea0f9bf09d4d7f7fe600",
+        "android_client_info": {
+          "package_name": "com.example.jawwla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003357213185-9pmsojngpq8h74p2nv1v405nnrja8vlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jawwla",
+            "certificate_hash": "271aed855446a65db85f58f8c9a27e5a8d49bf6e"
+          }
+        },
+        {
+          "client_id": "1003357213185-40q48v5g2p5lg4gf6tc2llfl7cl38n9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jawwla",
+            "certificate_hash": "983ce25b07e140ad77e147ae6362ace89fd1e595"
+          }
+        },
+        {
+          "client_id": "1003357213185-qunouqdforjbtljjlplne53vu9s7hh7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7hTPSaxcby1DPUJVpo3hU-Gw3meUCG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003357213185-qunouqdforjbtljjlplne53vu9s7hh7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
